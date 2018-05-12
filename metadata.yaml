@@ -1,0 +1,44 @@
+_repo: De-Pronunciatione-Graecae--amp--Latinae-Linguae_26570
+_version: 0.1.0
+alternative_title: De Pronuntiatione Graecae et Latinae Linguae
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caius, John
+    aliases:
+    - Kay, John
+    - Keys, John
+    - Caius, Iohannes
+    - Kees, John
+    - Keye, John
+    - Cay, John
+    - Key, John
+    - Kaye, John
+    birthdate: 1510
+    deathdate: 1573
+    gutenberg_agent_id: '32107'
+    url: http://www.gutenberg.org/2009/agents/32107
+    wikipedia: http://en.wikipedia.org/wiki/John_Caius
+  editor:
+    agent_name: Roberts, E. S. (Ernest Stewart)
+    alias: Roberts, Ernest Stewart
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '32108'
+    url: http://www.gutenberg.org/2009/agents/32108
+description: ''
+gutenberg_issued: '2008-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26570'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Classical languages -- Pronunciation'
+title: De Pronunciatione Graecae & Latinae Linguae
+url: http://www.gutenberg.org/ebooks/26570
